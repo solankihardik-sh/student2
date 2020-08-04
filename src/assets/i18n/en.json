@@ -1,0 +1,22 @@
+{
+    "signup": {
+        "studentForm.h3":"Student Form",
+        "select.option":"---select---",
+        "fullName.label": "FullName",
+        "fullName.placeholder": "Username Here",
+        "fullName.span":" Full Name is required and must be a valid name",
+        "meetingDate.label": "Metting Date",
+        "meetingDate.span": "Meeting Date is required and must be a valid Date",
+        "startDate.label": "StartDate",
+        "startDate.span": "StartDate Date is required and must be a valid Date",
+        "endDate.label": "EndDate",
+        "endDate.span": "EndDate Date is required and must be a valid Date",
+        "submit.button": "Submit",
+        "Reset.button":"Reset",
+        "urlnavigation.button": "Go to Student Details",
+        "button.en": "English",
+        "button.ta": "Tamil",
+        "button.fr": "French",
+        "button.zh": "Chinese"
+    }
+}
